@@ -1,0 +1,11 @@
+.inner {
+  max-width: 650px;
+  margin: 0 auto;
+  position: relative;
+  padding: 20px 20px;
+  background-color: rgb(255, 250, 246);
+}
+
+body {
+ background-color: rgb(241, 235, 230);
+}
